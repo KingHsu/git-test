@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello world!6666");
         System.out.println("Hello world!55555");
         System.out.println("master");
+        System.out.println("hot fix");
     }
 }
